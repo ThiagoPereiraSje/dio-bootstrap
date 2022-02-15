@@ -1,0 +1,16 @@
+body {
+  font: 20px Arial, serif;
+}
+
+.navbar {
+  background-color: burlywood;
+}
+
+.quem-somos {
+  background-color: gainsboro;
+}
+
+.margin {
+  /* padding-top: 50px; */
+  padding-bottom: 50px;
+}
